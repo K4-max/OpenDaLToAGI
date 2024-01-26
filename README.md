@@ -1,2 +1,2 @@
 # OpenDaLToAGI
- This is an open sorurced version of DaLToAGI offering Developer services
+ DaLToAGI is a Decentralised autonomous Lerning Task optimizing Artificial General Intelligence built to be scalable, general purpose and autonomous
